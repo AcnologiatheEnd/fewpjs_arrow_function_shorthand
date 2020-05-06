@@ -1,4 +1,4 @@
-let divide = x => 2000/x;
+let divide = x => x/100;
 
 let square = x => x**2;
 
